@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés C. Viesca Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "passport": "^0.3.2",
+    "passport-spotify": "^0.3.0"
+  }
+}
