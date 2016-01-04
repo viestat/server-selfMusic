@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.3",
+    "mongodb": "^2.1.2",
+    "mongoose": "^4.3.4",
     "passport": "^0.3.2",
     "passport-spotify": "^0.3.0"
   }
